@@ -1,0 +1,2 @@
+# JavaScriptStarterKit
+JavaScript Development Environment
