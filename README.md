@@ -1,2 +1,2 @@
 # JavaScriptStarterKit
-JavaScript Development Environment
+JavaScript stack development environment for web applications
